@@ -1,0 +1,13 @@
+HTML Code
+<!DOCTYPE html>
+<html>
+ <head> </head>
+ <body>
+ <div class="red-circle">
+ Red
+ </div>
+ <div class="red-circle overlay-green">
+ Green
+ </div>
+ </body>
+</html>

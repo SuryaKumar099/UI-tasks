@@ -1,0 +1,10 @@
+CSS code
+.title{
+ font-family: Roboto;
+ font-size: 19px;
+ font-weight: 300;
+}
+.head{
+ font-family: Roboto;
+ font-size: 17px;
+ font-weight: 400;

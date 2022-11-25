@@ -1,0 +1,8 @@
+CSS code
+.title{
+ padding: 10px;
+}
+.header{
+ top: 0;
+ padding: 0px 5px 10px ;
+}

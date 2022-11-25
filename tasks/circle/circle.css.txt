@@ -1,0 +1,21 @@
+CSS Code
+.red-circle{
+ border: #000000 solid 4px;
+ border-radius: 150px;
+ width: 150px;
+ height: 150px;
+ background-color: red;
+ font-family: Roboto;
+ font-size: 24px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ opacity: 0.8;
+ 
+}
+.overlay-green{
+ position: relative;
+ margin-left: 10%;
+ top: -157px;
+ background-color: green;
+}

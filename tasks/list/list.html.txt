@@ -1,0 +1,25 @@
+HTML code
+<!DOCTYPE html>
+<html>
+ <head> </head>
+ <body>
+ <div>
+ <h1 class="title">Below are my favorite food</h1>
+ <h1 class="head">1.Fruits</h1>
+ <ul>
+ <li>Mango</li>
+ <li>Mango</li>
+ </ul>
+ <h1 class="head">2.Soft Drinks</h1>
+ <ol type = "I">
+ <li>Coca Cola</li>
+ <li>Slice</li>
+ </ol>
+ <h1 class="head">3.Vegetables</h1>
+ <ol type = "A">
+ <li>Spinach</li>
+ <li>Beans</li>
+ </ol>
+ </div>
+ </body>
+</html>

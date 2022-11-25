@@ -1,0 +1,33 @@
+CSS code
+.square-container {
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-between;
+}
+.square1 {
+ border: 1px solid black;
+ padding: 30px;
+ margin: 2%;
+ width: 50px;
+ height: 50px;
+}
+.rectangle-container {
+ position: relative;
+ top: -5rem;
+ left: 8%;
+ border: 3px solid black;
+ padding: 2%;
+ width: 80%;
+ margin-top: 5px;
+ height: 400px;
+}
+.square2 {
+ border: 1px solid black;
+ padding: 30px;
+ width: 50px;
+ margin: 0% 2%;
+ height: 50px;
+ position: relative;
+ top: -130px;
+}

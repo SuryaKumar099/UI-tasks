@@ -1,0 +1,62 @@
+HTML code
+<!DOCTYPE html>
+<html>
+<head> </head>
+<body>
+ <table border="1" cellspacing="0">
+ <tr>
+ <th class="title" colspan="6"> Time Table </th>
+ </tr>
+ <tr>
+ <th class="header">Monday</th>
+ <th class="header">tuesday</th>
+ <th class="header">Wednesday</th>
+ <th class="header">Thursday</th>
+ <th class="header">Friday</th>
+ <th class="header">Saturday</th>
+ </tr>
+ <tr>
+ <td> 1 </td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ <tr>
+ <td> 2 </td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ 
+ <tr>
+ <td> 3 </td>
+ <th colspan="5"> Recess </th>
+ </tr>
+ <tr>
+ <td> 4 </td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td colspan="2"> </td>
+ </tr>
+ <tr>
+ <td> 5 </td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td></td>
+ <td rowspan="2"></td>
+ </tr>
+ <tr>
+ <td> 6 </td>
+ <td colspan="2"> </td>
+ <td></td>
+ <td></td>
+ </tr> 
+ </table>
+</body>
+</html>
